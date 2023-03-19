@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BitacoraApp2</string>
+    <string name="title_activity_agregar_frase">Agregar Frase Famosa</string>
+    <string name="title_activity_editar_frase">Editar Frase Famosa</string>
+    <string name="txtHintFrase">Aquí la frase</string>
+    <string name="txtHintFecha">Aquí la Fecha</string>
+    <string name="txtHintFK">Aquí la FK</string>
+    <string name="txtHintAutor">Aquí su autor</string>
+    <string name="txtBtnGuardar">Guardar</string>
+    <string name="txtBtnCancelar">Cancelar</string>
+    <string name="txtBtnEditar">Editar</string>
+    <string name="txtBtnVolver">Volver</string>
+    <string name="txtEditandoFrase">Editando frase</string>
+</resources>
